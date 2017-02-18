@@ -1,0 +1,63 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "lapitzasclub@gmail.com",
+    "longName": "Feedble",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/action-down.png",
+                "name": "IMAGES_ACTION_DOWN_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/action-up.png",
+                "name": "IMAGES_ACTION_UP_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGES_ICON_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Feedble",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "7b654594-e8ae-45fa-a361-165f9420531e",
+    "versionCode": 1,
+    "versionLabel": "1.8",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
